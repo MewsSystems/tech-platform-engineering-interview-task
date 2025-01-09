@@ -14,9 +14,9 @@ Each line contains the endpoint name and the request duration. Several deploymen
 
 Your task is to find which requests regressed and also the approximate time of it with a 5 minute tolerance. Write some code that reads in `logs.txt` and outputs the name of the endpoints that regressed and the time when it approximately happened. Use any programming language you feel comfortable with.
 
-Please also include:
+Also include:
 * Instructions on how execute your application. Bear in mind it may not be a technology we are familiar with.
-* Any comments to explain your thinking.
+* Explain your thinking, either in the readme or in comments. This is really important so the reviewers clearly understand your approach and the decisions you made.
 * Focus on making your code readable. It's more difficult to assess a task like this if it's hard to understand what the code is doing.
 
 # Github usernames
